@@ -38,4 +38,25 @@ que sea almacenada debe ser utilizando archivos XML.
 
 **Estrucutras de datos desarrollados**
 
+-Queue:
+Un Queue o cola, es una estructura de datos que sigue  la filosofia FIFO (First in First Out), esto quiere decir que el elemento que ingresa primero a la cola sera el primero que salga, y el ultimo que entre sera el ultimo en salir
+
+-Priority Queue: La cola de prioridad es una variante de la cola basica, en la que los elementos en la cola se organizan y se ordenan basado en su valor, por ejemplo, si son numeros, se ordenan de menor a mayor.
+
+-Array Lists: La clase Array List en java, es una clase que permite almacenar los datos de manera similiar a los arrays, con la ventaja de que el numero de elementos que almacena, lo hace de forma dinamica, es decir, que no es necesario declarar su tamaño, como pasa con los arrays.
+
+-Graphs: Los grafos son estructuras de datos, es decir de tipos de datos abstractos, comunmente los grafos son utilizados para el modelado de problemas, este consiste de un grupo de nodos, estos conectados entre si, o creando nuevas conexiones.
+
+
+-HashMaps: Un Hashmap en Java es un mapeo de clave-valor, lo que significa que cada clave se asigna exactamente a un valor y que podemos usar clave para recuperar el valor correspondiente de un HashMap
+
+
+
 **Algoritmos desarrollados**
+
+-Dijkstra Algoritm: Es tambien denominado el algoritmo de caminos cortos, es un modelo que se clasifica dentro de los modelos de busqueda. Si objetivo es denominar la ruta mad corta desde el nodo de origen hasta cualquier nodo de la red. Su metodologia se basa en iteraciones, de manera de que en la practica, su desarollo se complica a medida de que el tamaño de la red aumenta.
+
+-DFS Algoritm (Depth Firs Search): Este es un algoritmo recursivo que usa el principio de retroceso. Implica realizar búsquedas exhaustivas de todos los nodos, avanzando si es posible y retrocediendo si es necesario.
+
+
+
